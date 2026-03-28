@@ -144,7 +144,7 @@ Este repositório apresenta a lógica e a estrutura por trás dos projetos.
 
 Para visualizar a aplicação prática:
 
-👉 [Acesse o portfólio completo](COLOQUE_AQUI_SEU_LINK)
+👉 [Acesse o portfólio completo](https://lucianoadm.github.io/meta-case-portfolio/)
 
 ---
 
