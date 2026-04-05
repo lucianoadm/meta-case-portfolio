@@ -1,182 +1,96 @@
-# 📊 Meta-Case — Construção de Portfólio Profissional
+# ⚡ Meta-Case: Engenharia de Operações & Arquitetura de Dados
+### A Transformação de Anos de Know-how em Inteligência Visual
 
-## 🔎 Sobre este projeto
+![Dashboard Vivo](output/dashboard_vivo.gif)
+*(GIF da animação gerada via Gource/FFmpeg simbolizando o ecossistema neural de operações)*
 
-Este repositório documenta a construção de um portfólio profissional voltado à análise de dados aplicada à gestão.
+## 🔎 Sobre este Projeto
 
-Mais do que apresentar projetos, este meta-case demonstra:
+Este repositório não é apenas um portfólio; é um **Meta-Case de Gestão Profissional**. Ele documenta a construção de um ecossistema analítico onde a experiência operacional de mais de uma década é traduzida em estruturas lógicas, dados auditáveis e decisões estratégicas.
 
-- A lógica por trás das soluções  
-- O processo de estruturação  
-- A aplicação prática da tecnologia  
-- O uso estratégico de Inteligência Artificial  
-
----
-
-## 🎯 Objetivo
-
-Transformar conhecimento técnico e experiência operacional em um portfólio estruturado, capaz de comunicar valor de forma clara, prática e orientada à decisão.
+Aqui, demonstro como transformar o caos de uma planta industrial ou administrativa em um **organismo vivo de dados**.
 
 ---
 
-## 🧠 Como o projeto foi pensado
+## 🎯 O Diferencial: Posicionamento Estratégico
 
-Antes de qualquer ferramenta, a construção partiu de três perguntas:
+> **Este não é um portfólio de programação. É um portfólio de APLICAÇÃO.**
 
-- O que precisa ser controlado?  
-- O que precisa ser medido?  
-- O que precisa ser decidido?  
-
-A partir disso, cada projeto foi estruturado com foco em resolver problemas reais.
-
----
-
-## ⚙️ Posicionamento
-
-> Este não é um portfólio de programação.
-
-É um portfólio de aplicação.
-
-> Luciano não é programador.  
-> É um profissional que utiliza tecnologia para estruturar problemas, organizar dados e apoiar decisões.
-
-A tecnologia aqui é meio.  
-A lógica e a aplicação são o foco.
+Luciano não é um desenvolvedor de software. É um profissional que utiliza a tecnologia como ferramenta para:
+1. **Estruturar** problemas complexos.
+2. **Conectar** departamentos (Silo Breaking).
+3. **Gerar** clareza para a tomada de decisão.
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
+## 🧠 Visualização Neural: O "Dashboard Vivo"
 
-A Inteligência Artificial foi utilizada como ferramenta de apoio ao desenvolvimento.
+A animação no topo deste README representa a **Arquitetura do Conhecimento** aplicada a este Meta-Case. Através de um script personalizado em PowerShell e Gource, mapeamos o fluxo de **3.500 eventos críticos** em 6 pilares fundamentais:
 
-Seu uso incluiu:
-
-- Estruturação de código  
-- Organização de ideias  
-- Aceleração do desenvolvimento  
-- Refinamento de apresentação  
-
-É importante destacar:
-
-> Toda a lógica, definição dos problemas, estrutura dos projetos e objetivos são de autoria própria.
-
-A IA potencializa.  
-Mas não substitui o raciocínio.
+*   **💎 PROCESSO:** Padronização SOP, Tempos/Movimentos e VFM.
+*   **🔴 QUALIDADE:** Gestão de Retrabalho, Não Conformidades e CEP.
+*   **🌿 LOGÍSTICA:** Almoxarifado, Curva ABC e Inventário Rotativo.
+*   **📦 SUPPLY CHAIN:** Compras Estratégicas, CAPEX e Lead Times.
+*   **🔵 PLANEJAMENTO:** PCP, Carga Máquina e Sequenciamento Heijunka.
+*   **📄 ADMIN/DOCS:** Compliance Documental e Histórico Operacional.
 
 ---
 
-## 📦 Estrutura dos projetos desenvolvidos
+## ⚙️ Metodologia Aplicada (Framework Luciano)
 
-O portfólio foi construído com base em problemas reais de gestão:
+Todos os projetos deste portfólio seguem uma espinha dorsal rigorosa:
 
-- 📊 Planejamento e Controle da Produção (PCP)  
-- 📦 Gestão de Almoxarifado  
-- 💰 Controle Financeiro (Fluxo de Caixa)  
-- ⚙️ Produtividade Operacional  
-- 📈 Formação de Preços  
-- 📉 Dashboard Executivo  
+1.  **Estruturação (Data Foundation):** Organização de bases brutas em cadastros únicos e confiáveis.
+2.  **Processamento (Business Rules):** Automação de cálculos e regras de negócio para eliminar erro humano.
+3.  **Análise (Insight Generation):** Identificação de padrões e gargalos via KPIs dinâmicos.
+4.  **Visualização (Decision Support):** Dashboards de leitura rápida para ação imediata.
 
 ---
 
-## 🧩 Metodologia aplicada
+## 📦 Escopo do Portfólio
 
-Todos os projetos seguem uma estrutura padronizada:
+Soluções reais desenvolvidas para desafios de alta complexidade:
 
-### 1. Estruturação de dados
-- Organização e padronização  
-- Cadastro único  
-- Base confiável  
-
-### 2. Processamento
-- Regras de negócio  
-- Cálculos automatizados  
-- Consolidação de informações  
-
-### 3. Análise
-- Indicadores (KPIs)  
-- Identificação de padrões  
-- Geração de insights  
-
-### 4. Visualização
-- Dashboards objetivos  
-- Leitura rápida  
-- Apoio à decisão  
+- 📊 **PCP Avançado:** Programação fina com foco em OEE e redução de Lead Time.
+- 📦 **Almoxarifado Inteligente:** Controle de rupturas e níveis críticos de segurança.
+- 💰 **Finanças Operacionais:** Fluxo de caixa integrado ao ciclo de compras.
+- 📈 **Precificação Estratégica:** Formação de preços baseada em margem de contribuição.
+- ⚙️ **Produtividade Lean:** Análise de tempos e métodos para otimização de postos de trabalho.
 
 ---
 
-## 📊 Resultados esperados
+## 🤖 O Papel da Inteligência Artificial
 
-A aplicação dessa abordagem permite:
+Neste projeto, a **IA foi o acelerador, não o motor**. 
+- **Lógica e Problemas:** Autoria própria baseada em anos de chão de fábrica.
+- **IA:** Utilizada para refinamento de código, estruturação de ideias e ganho de escala na apresentação.
 
-- 📉 Redução de ineficiências operacionais  
-- 📦 Maior controle de estoque  
-- 💰 Melhor gestão financeira  
-- 📈 Aumento de produtividade  
-- 🎯 Decisões baseadas em dados  
+> "A IA potencializa o que já tem estrutura. Dados sem lógica são apenas ruído."
 
 ---
 
-## ⚠️ Desafios enfrentados
+## 💡 Principais Aprendizados
 
-Durante a construção do portfólio:
-
-- Definir escopo sem cair no genérico  
-- Manter consistência entre projetos  
-- Equilibrar técnica e comunicação  
-- Utilizar IA sem perder autoria  
-- Traduzir lógica em apresentação clara  
+- **Estrutura > Ferramenta:** Um Excel bem estruturado vence um software caro mal implementado.
+- **Clareza gera Valor:** Se o gestor não entende o gráfico em 3 segundos, o dado é inútil.
+- **Tecnologia é Meio:** O fim é sempre a margem, a eficiência e o lucro.
 
 ---
 
-## 💡 Principais aprendizados
+## 🔗 Conecte-se e Explore
 
-- Estrutura é mais importante que ferramenta  
-- Clareza aumenta percepção de valor  
-- Padronização acelera desenvolvimento  
-- Dados organizados geram decisão  
-- Tecnologia é meio, não fim  
+Para visualizar a aplicação prática de cada pilar mencionado:
 
----
-
-## 🔗 Acesso ao portfólio completo
-
-Este repositório apresenta a lógica e a estrutura por trás dos projetos.
-
-Para visualizar a aplicação prática:
-
-👉 [Acesse o portfólio completo](https://lucianoadm.github.io/meta-case-portfolio/)
-
----
-
-## 🚀 Evolução futura
-
-- Integração com Power BI  
-- Automação de processos  
-- Simulação de cenários  
-- Aplicação em dados reais  
-
----
-
-## 📌 Conclusão
-
-Este projeto representa uma forma de pensar:
-
-> Utilizar os recursos tecnológicos disponíveis para transformar dados em decisões.
-
-Se a operação não está clara, o problema não é a operação.  
-É a falta de estrutura.
+👉 **[Acesse o Portfólio Completo](https://lucianoadm.github.io/meta-case-portfolio/)**
 
 ---
 
 ## 📬 Contato
 
-- LinkedIn: https://linkedin.com/in/luciano-paiva-b0b01a19b  
-- GitHub: https://github.com/lucianoadm  
+- **LinkedIn:** [linkedin.com/in/luciano-paiva-b0b01a19b](https://linkedin.com/in/luciano-paiva-b0b01a19b)
+- **GitHub:** [github.com/lucianoadm](https://github.com/lucianoadm)
 
 ---
 
-## © Direitos autorais
-
-© 2026 Luciano Moura. Todos os direitos reservados.
-
----
+## © Direitos Autorais
+© 2026 Luciano Moura. Expertise real, visão digital.
