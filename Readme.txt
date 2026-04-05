@@ -63,14 +63,8 @@ Neste projeto, a **IA foi o acelerador, não o motor**.
 
 ## 📬 Contato & Conexão
 
-<p align="left">
-  <a href="https://linkedin.com/in/lucianomoura" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/lucianomoura" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
+📫 **Conecte-se comigo no LinkedIn**  
+👉 https://www.linkedin.com/in/luciano-paiva-b0b01a19b/
 
 ---
 
