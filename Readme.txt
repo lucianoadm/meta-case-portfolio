@@ -2,15 +2,15 @@
 ### A Transformação de Anos de Know-how em Inteligência Visual
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/acaudwell/Gource/master/data/gource-logo.png" style="width:100%;" alt="Network Evolution Map">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianomoura&theme=react-dark&area=true" alt="Data Graph"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/lucianomoura">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Em%20Evolução%20🚀-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Metodologia-Lean%20%2B%20Data--Driven-orange?style=for-the-badge" alt="Metodologia" />
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução%20🚀-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metodologia-Lean%20%2B%20Data--Driven-orange?style=for-the-badge" />
 </p>
 
 ---
