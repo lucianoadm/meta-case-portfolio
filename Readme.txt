@@ -68,7 +68,5 @@ Neste projeto, a **IA foi o acelerador, não o motor**.
 
 ---
 
-<div align="center" style="font-family: sans-serif; line-height: 1.6;">
-  <small>© 2026 <b>Luciano Moura</b></small><br>
-  <span style="color: #555; font-style: italic;">Expertise real, visão digital.</span>
-</div>
+© 2026 Luciano Moura br
+Expertise real, visão digital.
